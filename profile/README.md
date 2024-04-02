@@ -8,8 +8,8 @@ Our mission is to make cognitive training accessible and fun for everyone. We be
 
 ## Features
 - **Diverse Game Selection:** Choose from a range of games targeting different cognitive skills such as memory, attention, problem-solving, and more.
-- **Progress Tracking:** Track your performance and improvement over time with our built-in progress tracking features.
-- **Personalized Experience:** Receive customized recommendations based on your performance and areas for improvement.
+- **Progress Tracking (Coming soon...):** Track your performance and improvement over time with our built-in progress tracking features.
+- **Personalized Experience (Coming soon...):** Receive customized recommendations based on your performance and areas for improvement.
 - **Accessible Anywhere:** Enjoy our web app on any device with internet access, making it convenient for users to train their brains anytime, anywhere.
 
 ## Getting Started
